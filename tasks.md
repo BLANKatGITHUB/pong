@@ -5,4 +5,4 @@
 4. - [x]  Make paddles move
 5. - [x]  Make cpu paddle move using AI
 6. - [x]  check for collisions on paddles
-7. - [ ]  Add scoring 
+7. - [x]  Add scoring 
